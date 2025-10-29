@@ -1,7 +1,7 @@
 /*     
      Ejercicio: friction
      Fecha: 22 de sept 2025
-     Autor: Christopher Gracia
+     Autor:  jaime melendez
 */
 
 
