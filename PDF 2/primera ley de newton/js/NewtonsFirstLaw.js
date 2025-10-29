@@ -1,7 +1,7 @@
 /*     
      Ejercicio: law newton
      Fecha: 25 de sept 2025
-     Autor: Christopher Gracia
+     Autor: jaime melendez
 */
 
 let netoForce =3;
