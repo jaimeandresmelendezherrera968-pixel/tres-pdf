@@ -1,7 +1,7 @@
 /*     
     Ejercicio: age
     Fecha: 22 de sept 2025
-    Autor: christopher Jaimes
+    Autor: jaime melendez
 */
 
 let ageOne = 17;
