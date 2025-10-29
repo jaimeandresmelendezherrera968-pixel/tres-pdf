@@ -1,7 +1,7 @@
 /*     
     Ejercicio: aceleration
     Fecha: 10 de oct 2025
-    Autor: Christopher Gracia
+    Autor: jaime melendez
 */
 
 
