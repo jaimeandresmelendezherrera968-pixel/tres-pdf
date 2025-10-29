@@ -1,7 +1,7 @@
 /*     
         Ejercicio: are the three cuadres
         Fecha: 10 de octu 2025
-        Autor: Christopher Gracia
+        Autor: jaime melendez
 */
 let sideOne =12;
 let sideTwo = 10;
