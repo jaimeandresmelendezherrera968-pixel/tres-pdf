@@ -1,7 +1,7 @@
 /*     
      Ejercicio: Force object
      Fecha: 22 de sept 2025
-     Autor: christopher jaimes
+     Autor:  jaime melendez
 */
 
 let force;
